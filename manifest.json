@@ -1,0 +1,9 @@
+{
+  "id": "black-chat-theme",
+  "name": "Black Chat Theme",
+  "description": "Тёмная тема с фоном для чатов.",
+  "authors": [{ "name": "aiobahn", "id": "1234567890" }],
+  "version": "1.0.0",
+  "main": "index.js"
+}
+

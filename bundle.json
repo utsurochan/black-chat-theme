@@ -1,0 +1,30 @@
+{
+  "type": "midnight",
+  "semantic": {
+    "BACKGROUND_PRIMARY":   { "type": "color", "value": "#0a0a0a" },
+    "BACKGROUND_SECONDARY": { "type": "color", "value": "#121212" },
+    "BACKGROUND_TERTIARY":  { "type": "color", "value": "#181818" },
+
+    "TEXT_NORMAL": { "type": "color", "value": "#e6e6e6" },
+    "TEXT_MUTED":  { "type": "color", "value": "#9a9a9a" },
+
+    "ACCENT": { "type": "color", "value": "#c74050" },
+
+    "BUTTON_BACKGROUND": { "type": "color", "value": "#1f1f1f" },
+    "BUTTON_TEXT":       { "type": "color", "value": "#ffffff" },
+
+    "SCROLLBAR_THUMB": { "type": "color", "value": "#2a2a2a" },
+
+    "BACKGROUND_FLOATING": { "type": "color", "value": "#0c0c0c", "opacity": 0.85 }
+  },
+  "raw": {
+    "systemBlueColor": "#c74050",
+    "systemGreenColor": "#3fa37f",
+    "systemRedColor": "#a83232"
+  },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1487186755747844126/1553190984102182932/IMG_3771.png?ex=6ab85953&is=6ab707d3&hm=697836289b1dcb23915e7e6163ff380d5d0733096826908e7ef26e88d575c1da&",
+    "blur": 6,
+    "opacity": 0.45
+  }
+}
